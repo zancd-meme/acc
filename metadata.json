@@ -1,0 +1,5 @@
+{
+  "name": "精度评分1.2",
+  "description": "一个高保真仪表盘，通过动画图表和仪表可视化用户的准确率指标、总计数和表现评分。",
+  "requestFramePermissions": []
+}
